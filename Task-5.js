@@ -68,7 +68,6 @@ const myResume = {
     address : "No:755, Omega church street, Na, Periyakuppam, Tiruvallur",
     pincode : 602001,
     isMarried : false,
-    cgpa : 83.96
 }
 
 log("--- Getting keys from myResume ---");
